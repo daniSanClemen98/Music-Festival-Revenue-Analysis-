@@ -2,6 +2,29 @@
 
 The main objective of this project is to analyze how Aurosa Sound Fest performed in 2025, regarding costs, attandances, music gerne, total revenue. And also to forecast how the festival will perform in coming years.
 
+(Its important to note that all the data found in the following analysis is made up, it was a project completly from scratch. Creating everything from python with different file such as:
+
+- Artist_list that contained twenty made up artists, six music gernes and six countries, later all of this was entered into a loop that randomly assigned an Id number, a gerne, a counrty of origin and a performance fee and then put on a list. 
+
+- Performance_list that contained the dates of the three days of the festival were decided, start times for the performances and a duration time for each, then it was put into  a loop when a date, start time and duration time were randomly assigned to an artist and later put in a list.
+
+- Sponsors_list that contained five made up sponsors, an assigned contribution amount that then its put into a loop to enumarate and later put in a list.
+
+- Stage_list three stage names were created and then in a loop an Id number, and capacity was assigned to each stage.
+
+- Ticket_Type three ticket types were created based on what is usually found in normal concerts, a price was assigned then a loop was used to enumarate and give a number Id, and then put into a list.
+
+- Ticket_Vendor contains purchased date, fifteen cities and a set amount of tickets to sell, then put into a loop that randomly assigned an Id number, a ticket type Id (1-3 from the previous list), performance Id number, a purchased date, a custumer age and a custumer city.
+
+- Vendor_list twenty vendors were put in a list some real some made up, then three categories were created to clasify what the vendors sold (food, drinks, merch), and three set amounts of commission (10%, 15% & 20%), then a loop to enumarate that randomly assigned a commission and a category to each vendor.
+
+- Vendors_sales here the loop was to assign to each category a unit price between a range of (30.000 -60.000) to food, (15000, 25000) to drinks and (50000, 90000) to merch then a quantity sold was a random choice between (1-10) and lastly a multiplication of unit price and quantity sold.
+
+Then all the data was taken to SQlite to clean it out and start making the calculations of the different questions to showcase this project.
+
+Finally it was taken to Powe BI and put visually.
+
+Lastly important to note that all this calculation were made with Colombian pesos, but since the analysis is being made in english the terms "Billions ot Billion" have to be used, but it is not refering to USD. Also because of the pre setting of Power Bi that were not able to be changed it appears like that.
 ## 🗂 Index
 
 
@@ -36,7 +59,7 @@ The main objective of this project is to analyze how Aurosa Sound Fest performed
 ## 🔍 Which Genre Generated The Most Revenue?
 
 <p align="center">
-<img width="990" height="522" alt="image" src="https://github.com/user-attachments/assets/c15ee046-b9ec-47b5-9cfc-e8c59f554e11" />
+<img width="832" height="476" alt="image" src="https://github.com/user-attachments/assets/a1da0e4e-aa2b-4947-8582-c7cc0a28d465" />
 </p>
 As it can be seen, out of all the music gerne the ones that generated the most were "Merengue" and "Pop", which happen to be the gernes with the most artist at the festival. 
 It can also be appreciated that reggaeton is the third most profitable music gerne, demostraring the big relationship between medellin and this music. 
@@ -68,7 +91,7 @@ To show the five artists that pulled the most people, starting with "Aurora Blaz
 ## 🔍 What Age Group Attended Most?
 
 <p align="center">
-<img width="933" height="479" alt="image" src="https://github.com/user-attachments/assets/f353ef92-e4ea-4f54-99ef-dc8471a77f42" />
+<img width="805" height="483" alt="image" src="https://github.com/user-attachments/assets/192e7c5e-8161-45ff-954e-6363831867b6" />
 </p>
 
 As it can be seen the first three age groups "46-55","26-35" y "36-45" are very close, meaning they almost had the same amount of attendees over (26,000) people and shows a rather big contrast with the age group of "18-25" that had around (21.000) attendees.
@@ -108,3 +131,34 @@ It is safe to infer that people bought fast food most during the festival, this 
 </p>
 
 Now for the vendors that earned the least amount of money all under (12.000) each and in comparision to the top earnest there is a clear and big gap. This could be explained by the products that these vendors offer such things as deserts, paitries cofee etc. 
+
+
+## 🔍 Ticket Revenue per Date
+
+<p align="center">
+<img width="809" height="453" alt="image" src="https://github.com/user-attachments/assets/b81ba8cd-0c42-41aa-8f10-4587f1898435" />
+</p>
+
+As it can be seen the day that made the most revenue was october tenth, a friday that was able to make over (36.990 billions), followed by the eleventh and the twelveth that made almost the same amount around (23 billions) each.
+
+
+## 🔍 Revenue per Ticket Type
+
+<p align="center">
+<img width="809" height="430" alt="image" src="https://github.com/user-attachments/assets/ea68f2b4-95ed-4090-818b-0f31898a81b3" />
+</p>
+
+This is a similar graph to the one of "VIP vs General Purchase Ratio", but it is not because that one showed how many tickets were purchases and compred one two of the three ticket type, this one show how much each type made and compares them. The biggest revenue was made from platinum with over (40.4 billions), followed by VIP with over (28.4 billions) and lastly General with a (14.8 billions) amount. From this it can be seen that the spending power was large for the atendees of the festival.
+
+
+## 🔍 Forecast Revenue
+
+<p align="center">
+<img width="801" height="468" alt="image" src="https://github.com/user-attachments/assets/fe3a84a1-f291-43b6-b7a5-655776f6bd81" />
+</p>
+
+In order to calculate how much money the festival would make in 2026 compared to 2025 a 10% increment was used, given how succesful the festival with a total revenue of over (83.6 billions). And so the calculation would suggest a revenue of over (92,2 billions) for Aura Soun Fest 2026.
+
+
+## 📖 Conclusion
+
