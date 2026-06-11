@@ -24,8 +24,11 @@ Then all the data was taken to SQlite to clean it out and start making the calcu
 
 Finally it was taken to Powe BI and put visually.
 
-Lastly important to note that all this calculation were made with Colombian pesos, but since the analysis is being made in english the terms "Billions ot Billion" have to be used, but it is not refering to USD. Also because of the pre setting of Power Bi that were not able to be changed it appears like that.
+Lastly important to note that all this calculation were made in Colombian pesos, but since the analysis is being made in english the terms "Billions ot Billion" have to be used, but it is not refering to USD. For clarification  (one billion pesos) in english is the sames as (mil millones de pesos) in spanish, so on the graphics when something shows for example (20 mil M) that is in spanish but it is the same as saying (20 Billions). Also because of the pre setting of Power Bi that were not able to be changed it is shown that way.
+
 ## 🗂 Index
+
+* ### [ Performance Analysis.](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-/edit/main/README.md#-performance-analysis )
 
 
 ---
