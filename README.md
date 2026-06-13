@@ -101,13 +101,13 @@ Equivalent to "mil millones de pesos" in Spanish
 Power BI's regional formatting settings display some values using Spanish abbreviations such as "mil M". Therefore, a value displayed as "20 mil M" should be interpreted as approximately 20 billion COP rather than 20 million COP.
 ## 🗂 Index
 
-* ### [ Performance Analysis](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-/edit/main/README.md#-performance-analysis )
-* ### [ Custumer Insights](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-/edit/main/README.md#-custumer-insights-1 )
-* ### [  Vendor Analysis](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-/edit/main/README.md#-vendor-analysis)
-* ### [  Ticket Revenue](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-/edit/main/README.md#-ticket-revenue)
-* ### [Forecast Revenue](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-/edit/main/README.md#-forecast-revenue)
-* ### [Festival Insights](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-/edit/main/README.md#-festival-insights)
-* ### [Conclusion](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-/edit/main/README.md#-conclusion)
+* ### [ Performance Analysis](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-#-performance-analysis-1)
+* ### [ Custumer Insights](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-#-custumer-insights-1)
+* ### [  Vendor Analysis](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-#-vendor-analysis)
+* ### [  Ticket Revenue](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-#-ticket-revenue)
+* ### [Forecast Revenue](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-#-forecast-revenue)
+* ### [Festival Insights](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-#-festival-insights)
+* ### [Conclusion](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-#-conclusion)
 ---
 
 ## 🎨 Performance Analysis
