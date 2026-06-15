@@ -112,35 +112,36 @@ Power BI's regional formatting settings display some values using Spanish abbrev
 
 ## 🎨 Performance Analysis
 
-<img width="987" height="489" alt="image" src="https://github.com/user-attachments/assets/e4772bab-101b-4048-acfe-2c582683b7c8" />
+<img width="864" height="477" alt="image" src="https://github.com/user-attachments/assets/4184f733-8bc1-4bbf-8fb0-52e543d8653b" />
 
 
 
 ## 🎨 Customer Insights
 
-<img width="874" height="489" alt="image" src="https://github.com/user-attachments/assets/1794e21f-f20e-4792-9eae-f046ceaff2f7" />
+<img width="885" height="490" alt="image" src="https://github.com/user-attachments/assets/d8e2fa25-47f6-47eb-ac3f-4657e6eadf79" />
 
 
 ## 🎨 Vendor Analysis
 
-<img width="845" height="491" alt="image" src="https://github.com/user-attachments/assets/434c849f-c2db-4f15-885c-e5c7bbcf26a1" />
+<img width="864" height="491" alt="image" src="https://github.com/user-attachments/assets/b38910bb-90ff-4b6d-9844-ebf984100229" />
 
 
 ## 🎨 Ticket Revenue
 
-<img width="872" height="490" alt="image" src="https://github.com/user-attachments/assets/b0090dfb-b9ab-46ed-8f03-933a373494e4" />
+<img width="879" height="490" alt="image" src="https://github.com/user-attachments/assets/938edfa0-cd60-4440-b4f9-167b1e382aa8" />
 
 
 ## 🎨 Forecast Revenue
 
-<img width="847" height="486" alt="image" src="https://github.com/user-attachments/assets/c7e816e4-ab4d-4bbf-9500-dda5610f222c" />
+<img width="853" height="477" alt="image" src="https://github.com/user-attachments/assets/c568fa2e-dd36-4407-ac28-ea5b0b8321dd" />
+
 
 ## 🔍 Festival Insights
 
 * #### Which Genre Generated The Most Revenue?
 
 <p align="center">
-<img width="832" height="476" alt="image" src="https://github.com/user-attachments/assets/a1da0e4e-aa2b-4947-8582-c7cc0a28d465" />
+<img width="859" height="464" alt="image" src="https://github.com/user-attachments/assets/0c7648c4-7f60-440a-95c7-0ae133641a80" />
 </p>
 As shown in the chart, the genres that generated the highest revenue were Merengue and Pop, which also happen to be the genres represented by the largest number of artists at the festival.
 
@@ -155,7 +156,7 @@ Finally, Alternative generated the lowest revenue among all genres. This may be 
 * #### Which Stage Had The Highest Attendance?
 
 <p align="center">
-<img width="839" height="477" alt="image" src="https://github.com/user-attachments/assets/825560ca-417f-43f0-a07e-d60a16bf4c28" />
+<img width="850" height="464" alt="image" src="https://github.com/user-attachments/assets/de49de80-9cd0-4337-8c7e-a0eee741c863" />
 </p>
 
 When analyzing attendance by stage, La Colina recorded the highest attendance among the three festival stages. This result is consistent with the fact that it is the largest venue in the festival, with a capacity of over 40,000 attendees.
@@ -171,7 +172,7 @@ Overall, the attendance distribution suggests that the festival was able to util
 * #### Which Artist Had The highest Attendance
 
 <p align="center">
-<img width="851" height="479" alt="image" src="https://github.com/user-attachments/assets/c2bdb00a-eb24-406c-aaea-68948fb1fc31" />
+<img width="861" height="482" alt="image" src="https://github.com/user-attachments/assets/2ba3fb5d-63e3-403d-85f0-cde948090d0b" />
 </p>
 
 The chart highlights the five artists who attracted the largest audiences during Aurora Sound Fest 2025.
@@ -188,7 +189,7 @@ These results highlight the difference between genre profitability and artist po
 * #### What Age Group Attended Most?
 
 <p align="center">
-<img width="805" height="483" alt="image" src="https://github.com/user-attachments/assets/192e7c5e-8161-45ff-954e-6363831867b6" />
+<img width="860" height="480" alt="image" src="https://github.com/user-attachments/assets/befc5f0e-5fe8-4612-af2e-bbf6b54af29d" />
 </p>
 
 As shown in the chart, the 46–55, 26–35, and 36–45 age groups recorded very similar attendance levels, each attracting more than 26,000 attendees. This indicates that the festival appealed relatively equally to a broad adult audience rather than being dominated by a single age demographic.
@@ -201,7 +202,7 @@ In contrast, the 18–25 age group recorded approximately 21,000 attendees, noti
 * #### Top 5 Cities By Attendance
 
 <p align="center">
-<img width="578" height="494" alt="image" src="https://github.com/user-attachments/assets/f9c3a292-c4cd-4c54-b96f-b8ff1141c280" />
+<img width="529" height="489" alt="image" src="https://github.com/user-attachments/assets/41e66fa4-510f-4380-9978-d465cd5b7a9e" />
 </p>
 
 As shown in the chart, Medellín recorded the highest number of attendees, making it the city most strongly represented at Aurora Sound Fest 2025. It was followed by San Antonio, Cartagena, Cali, and Santiago.
@@ -215,7 +216,7 @@ Overall, the results indicate that Aurora Sound Fest was able to attract attende
 * #### VIP vs General Purschase Ratio
 
 <p align="center">
-<img width="749" height="425" alt="image" src="https://github.com/user-attachments/assets/7b83150a-e33d-4590-9deb-7505383bfc8e" />
+<img width="857" height="474" alt="image" src="https://github.com/user-attachments/assets/362c652d-d834-4fc5-84e5-a248ce18e47b" />
 </p>
 
 When comparing VIP and General Admission ticket sales, the ratio between the two categories was approximately 0.62, meaning that for every 100 VIP Admission tickets sold, around 62 General Admission tickets were purchased.
@@ -227,7 +228,7 @@ Although VIP Admission tickets represented the larger share of sales, the differ
 * #### Which Vendor Category Made the Most?
 
 <p align="center">
-<img width="754" height="475" alt="image" src="https://github.com/user-attachments/assets/eba50be6-9b54-45d5-b019-50700f24d76f" />
+<img width="860" height="477" alt="image" src="https://github.com/user-attachments/assets/657ef236-8ff9-465a-8163-995f24005402" />
 </p>
 
 The results suggest that fast-food vendors generated the highest sales during Aurora Sound Fest 2025. A possible explanation is that fast food is generally less expensive and can be served quickly, making it an attractive option for attendees who want to maximize their time at the festival.
@@ -241,7 +242,7 @@ Overall, the five highest-performing vendors each generated more than 300,000 CO
 * #### Which Vendor Was Not Profitable For The Festival (Commission)?
 
 <p align="center">
-<img width="852" height="483" alt="image" src="https://github.com/user-attachments/assets/714a405b-6377-4120-9857-5c7e6311e6aa" />
+<img width="842" height="478" alt="image" src="https://github.com/user-attachments/assets/34d59ec5-9670-4aec-a4f6-43d4ad4cf183" />
 </p>
 
 The vendors that generated the lowest revenue each earned less than 12,000 COP, creating a substantial gap when compared to the festival's top-performing vendors.
@@ -253,10 +254,10 @@ The contrast between the highest- and lowest-performing vendors highlights how p
 
 ##
 
-* #### Ticket Revenue per Date
+* #### Ticket Revenue by Date
 
 <p align="center">
-<img width="809" height="453" alt="image" src="https://github.com/user-attachments/assets/b81ba8cd-0c42-41aa-8f10-4587f1898435" />
+<img width="853" height="486" alt="image" src="https://github.com/user-attachments/assets/96232561-c6ed-4849-9187-f5af2e2cabaf" />
 </p>
 
 As shown in the chart, October 10th generated the highest ticket revenue of the three festival days, producing more than 36.99 billion COP (approximately 10.48 million USD).
@@ -267,10 +268,10 @@ The significant lead observed on October 10th suggests that the opening day attr
 
 ##
 
-* #### Revenue per Ticket Type
+* #### Revenue by Ticket Type
 
 <p align="center">
-<img width="809" height="430" alt="image" src="https://github.com/user-attachments/assets/ea68f2b4-95ed-4090-818b-0f31898a81b3" />
+<img width="870" height="478" alt="image" src="https://github.com/user-attachments/assets/01d70520-75d9-4105-8659-cf0d8d9bde03" />
 </p>
 
 Although this chart may appear similar to the VIP vs General Purchase Ratio visualization, it answers a different question. The previous chart compared the number of tickets sold between two ticket categories, while this one focuses on the revenue generated by each ticket type.
