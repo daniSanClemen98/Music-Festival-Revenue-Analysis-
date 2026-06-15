@@ -123,7 +123,7 @@ Power BI's regional formatting settings display some values using Spanish abbrev
 
 ## 🎨 Vendor Analysis
 
-<img width="863" height="484" alt="image" src="https://github.com/user-attachments/assets/bbef4997-ab35-4710-b388-8cba0fed0b1f" />
+<img width="845" height="491" alt="image" src="https://github.com/user-attachments/assets/434c849f-c2db-4f15-885c-e5c7bbcf26a1" />
 
 
 ## 🎨 Ticket Revenue
@@ -241,7 +241,7 @@ Overall, the five highest-performing vendors each generated more than 300,000 CO
 * #### Which Vendor Was Not Profitable For The Festival (Commission)?
 
 <p align="center">
-<img width="717" height="473" alt="image" src="https://github.com/user-attachments/assets/3b3ea831-3ab8-400f-bc73-912e1ceadb40" />
+<img width="852" height="483" alt="image" src="https://github.com/user-attachments/assets/714a405b-6377-4120-9857-5c7e6311e6aa" />
 </p>
 
 The vendors that generated the lowest revenue each earned less than 12,000 COP, creating a substantial gap when compared to the festival's top-performing vendors.
