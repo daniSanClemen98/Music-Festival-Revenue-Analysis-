@@ -102,7 +102,7 @@ Power BI's regional formatting settings display some values using Spanish abbrev
 ## 🗂 Index
 
 * ### [ Performance Analysis](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-#-performance-analysis-1)
-* ### [ Customer Insights](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-#-custumer-insights-1)
+* ### [ Customer Insights](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-#-customer-insights-1)
 * ### [  Vendor Analysis](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-#-vendor-analysis)
 * ### [  Ticket Revenue](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-#-ticket-revenue)
 * ### [Forecast Revenue](https://github.com/daniSanClemen98/Music-Festival-Revenue-Analysis-#-forecast-revenue)
